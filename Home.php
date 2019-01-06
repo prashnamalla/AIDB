@@ -11,7 +11,7 @@
 <html lang="en">
 <!--<![endif]-->
 	<head>
-		<title>Login with Facebook and Google | Home</title>
+		<title>Login with Facebook & Google | Home</title>
 	</head>
 	<body>
 		<?php
